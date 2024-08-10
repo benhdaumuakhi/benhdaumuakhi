@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bệnh đậu mùa khỉ
 
-<!--
-**benhdaumuakhi/benhdaumuakhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bệnh đậu mùa khỉ là một bệnh lý rất hiếm gặp, gây ra bởi vi rút đậu mùa khỉ. Vi rút này có cấu trúc và tính chất gây bệnh tương tự như vi rút gây bệnh thủy đậu nhưng bệnh cảnh lâm sàng thường nhẹ nhàng hơn.
 
-Here are some ideas to get you started:
+#benhdaumuakhi #benhdaumuakhilagi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://benhdaumuakhi.com
+
+https://www.pinterest.com/benhdaumuakhi/
+
+https://vimeo.com/benhdaumuakhi
+
+https://www.youtube.com/channel/UCXP7VVdqCFTXQciy0N-ByPg
+
+https://gravatar.com/benhdaumuakhi
